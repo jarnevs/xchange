@@ -18,7 +18,7 @@ function App() {
       <FirebaseProvider>
         <AuthProvider>
           <FirestoreProvider>
-            <Router basename={'/eindwerk-pgmgent-jarnvans/'}>
+            <Router basename={'/xchange/'}>
               <Switch>
                 <RouteWithLayout exact path={Routes.LANDING} layout={ BaseLayout } component={ HomePage }/>
                 <RouteWithLayout exact path={Routes.PRODUCTS} layout={ BaseLayout } component={ ProductsPage }/>

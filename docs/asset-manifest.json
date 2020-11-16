@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/eindwerk-pgmgent-jarnvans/static/css/main.f36cbfdc.chunk.css",
-    "main.js": "/eindwerk-pgmgent-jarnvans/static/js/main.171eed88.chunk.js",
-    "main.js.map": "/eindwerk-pgmgent-jarnvans/static/js/main.171eed88.chunk.js.map",
-    "runtime-main.js": "/eindwerk-pgmgent-jarnvans/static/js/runtime-main.4a7d40e5.js",
-    "runtime-main.js.map": "/eindwerk-pgmgent-jarnvans/static/js/runtime-main.4a7d40e5.js.map",
-    "static/js/2.1320a93f.chunk.js": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js",
-    "static/js/2.1320a93f.chunk.js.map": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js.map",
-    "index.html": "/eindwerk-pgmgent-jarnvans/index.html",
-    "precache-manifest.c77b608a8e1f935fdca2aa16d464f7c3.js": "/eindwerk-pgmgent-jarnvans/precache-manifest.c77b608a8e1f935fdca2aa16d464f7c3.js",
-    "service-worker.js": "/eindwerk-pgmgent-jarnvans/service-worker.js",
-    "static/css/main.f36cbfdc.chunk.css.map": "/eindwerk-pgmgent-jarnvans/static/css/main.f36cbfdc.chunk.css.map",
-    "static/js/2.1320a93f.chunk.js.LICENSE.txt": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/eindwerk-pgmgent-jarnvans/static/media/home.5e983612.jpg"
+    "main.css": "/jarnevs/xchange/static/css/main.5064cf32.chunk.css",
+    "main.js": "/jarnevs/xchange/static/js/main.293e9a59.chunk.js",
+    "main.js.map": "/jarnevs/xchange/static/js/main.293e9a59.chunk.js.map",
+    "runtime-main.js": "/jarnevs/xchange/static/js/runtime-main.b12ca326.js",
+    "runtime-main.js.map": "/jarnevs/xchange/static/js/runtime-main.b12ca326.js.map",
+    "static/js/2.c458a179.chunk.js": "/jarnevs/xchange/static/js/2.c458a179.chunk.js",
+    "static/js/2.c458a179.chunk.js.map": "/jarnevs/xchange/static/js/2.c458a179.chunk.js.map",
+    "index.html": "/jarnevs/xchange/index.html",
+    "precache-manifest.6bd867985488c6c1718900c8bb21cb98.js": "/jarnevs/xchange/precache-manifest.6bd867985488c6c1718900c8bb21cb98.js",
+    "service-worker.js": "/jarnevs/xchange/service-worker.js",
+    "static/css/main.5064cf32.chunk.css.map": "/jarnevs/xchange/static/css/main.5064cf32.chunk.css.map",
+    "static/js/2.c458a179.chunk.js.LICENSE.txt": "/jarnevs/xchange/static/js/2.c458a179.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/jarnevs/xchange/static/media/home.5e983612.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a7d40e5.js",
-    "static/js/2.1320a93f.chunk.js",
-    "static/css/main.f36cbfdc.chunk.css",
-    "static/js/main.171eed88.chunk.js"
+    "static/js/runtime-main.b12ca326.js",
+    "static/js/2.c458a179.chunk.js",
+    "static/css/main.5064cf32.chunk.css",
+    "static/js/main.293e9a59.chunk.js"
   ]
 }
