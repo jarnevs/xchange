@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jarnevs/xchange/static/css/main.5064cf32.chunk.css",
-    "main.js": "/jarnevs/xchange/static/js/main.293e9a59.chunk.js",
-    "main.js.map": "/jarnevs/xchange/static/js/main.293e9a59.chunk.js.map",
-    "runtime-main.js": "/jarnevs/xchange/static/js/runtime-main.b12ca326.js",
-    "runtime-main.js.map": "/jarnevs/xchange/static/js/runtime-main.b12ca326.js.map",
-    "static/js/2.c458a179.chunk.js": "/jarnevs/xchange/static/js/2.c458a179.chunk.js",
-    "static/js/2.c458a179.chunk.js.map": "/jarnevs/xchange/static/js/2.c458a179.chunk.js.map",
-    "index.html": "/jarnevs/xchange/index.html",
-    "precache-manifest.6bd867985488c6c1718900c8bb21cb98.js": "/jarnevs/xchange/precache-manifest.6bd867985488c6c1718900c8bb21cb98.js",
-    "service-worker.js": "/jarnevs/xchange/service-worker.js",
-    "static/css/main.5064cf32.chunk.css.map": "/jarnevs/xchange/static/css/main.5064cf32.chunk.css.map",
-    "static/js/2.c458a179.chunk.js.LICENSE.txt": "/jarnevs/xchange/static/js/2.c458a179.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/jarnevs/xchange/static/media/home.5e983612.jpg"
+    "main.css": "/xchange/static/css/main.a5058995.chunk.css",
+    "main.js": "/xchange/static/js/main.510ab420.chunk.js",
+    "main.js.map": "/xchange/static/js/main.510ab420.chunk.js.map",
+    "runtime-main.js": "/xchange/static/js/runtime-main.33f08715.js",
+    "runtime-main.js.map": "/xchange/static/js/runtime-main.33f08715.js.map",
+    "static/js/2.3a5bc11e.chunk.js": "/xchange/static/js/2.3a5bc11e.chunk.js",
+    "static/js/2.3a5bc11e.chunk.js.map": "/xchange/static/js/2.3a5bc11e.chunk.js.map",
+    "index.html": "/xchange/index.html",
+    "precache-manifest.a75706404a48d3274870cc237ec0d8f5.js": "/xchange/precache-manifest.a75706404a48d3274870cc237ec0d8f5.js",
+    "service-worker.js": "/xchange/service-worker.js",
+    "static/css/main.a5058995.chunk.css.map": "/xchange/static/css/main.a5058995.chunk.css.map",
+    "static/js/2.3a5bc11e.chunk.js.LICENSE.txt": "/xchange/static/js/2.3a5bc11e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/xchange/static/media/home.5e983612.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b12ca326.js",
-    "static/js/2.c458a179.chunk.js",
-    "static/css/main.5064cf32.chunk.css",
-    "static/js/main.293e9a59.chunk.js"
+    "static/js/runtime-main.33f08715.js",
+    "static/js/2.3a5bc11e.chunk.js",
+    "static/css/main.a5058995.chunk.css",
+    "static/js/main.510ab420.chunk.js"
   ]
 }
