@@ -1,0 +1,52 @@
+.detail {
+  &__top-part {
+    margin-bottom: 32px;
+    flex: 0 0 47%;
+  }
+
+  &__thumb {
+    height: 434px;
+
+    img {
+      margin: 0 auto;
+      height: 100%;
+    }
+  }
+
+  &__content {
+    .title-text {
+      margin-top: 16px;
+      margin-bottom: 6px;
+    }
+  }
+
+  &__image {
+    flex: 0 0 47%;
+    margin-bottom: 6%;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .detail {
+    &__thumb {
+      height: auto;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    &__top-part {
+      flex: 0 0 100%;
+    }
+
+    &__image {
+      flex: 0 0 100%;
+      margin-bottom: 6%;
+    }
+  }
+}

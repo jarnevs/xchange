@@ -1,0 +1,43 @@
+.cta {
+  cursor: pointer;
+  display: block;
+  border: 0;
+  background: $call-to-action;
+  color: $white;
+  padding: 14px 0px;
+  width: 100px;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+
+  &--detail {
+    margin-top: 20px;
+    width: 100%;
+  }
+
+  &:disabled {
+    cursor: auto;
+    background: $title-color;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  &:hover {
+    opacity: 0.6;
+  }
+}
+
+@media (max-width: 576px) {
+  .cta {
+    margin: 20px 0;
+    width: 100%;
+
+    &.little-x {
+      width: 60px;
+    }
+  }
+}

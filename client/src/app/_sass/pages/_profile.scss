@@ -1,0 +1,13 @@
+.profile {
+  height: calc(100vh - 260px) ;
+}
+
+.page--profile {
+  p {
+    margin-bottom: 24px;
+
+    &.no-margin {
+      margin-bottom: 0;
+    }
+  }
+}

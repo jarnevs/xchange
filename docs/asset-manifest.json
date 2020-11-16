@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eindwerk-pgmgent-jarnvans/static/css/main.f36cbfdc.chunk.css",
+    "main.js": "/eindwerk-pgmgent-jarnvans/static/js/main.171eed88.chunk.js",
+    "main.js.map": "/eindwerk-pgmgent-jarnvans/static/js/main.171eed88.chunk.js.map",
+    "runtime-main.js": "/eindwerk-pgmgent-jarnvans/static/js/runtime-main.4a7d40e5.js",
+    "runtime-main.js.map": "/eindwerk-pgmgent-jarnvans/static/js/runtime-main.4a7d40e5.js.map",
+    "static/js/2.1320a93f.chunk.js": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js",
+    "static/js/2.1320a93f.chunk.js.map": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js.map",
+    "index.html": "/eindwerk-pgmgent-jarnvans/index.html",
+    "precache-manifest.c77b608a8e1f935fdca2aa16d464f7c3.js": "/eindwerk-pgmgent-jarnvans/precache-manifest.c77b608a8e1f935fdca2aa16d464f7c3.js",
+    "service-worker.js": "/eindwerk-pgmgent-jarnvans/service-worker.js",
+    "static/css/main.f36cbfdc.chunk.css.map": "/eindwerk-pgmgent-jarnvans/static/css/main.f36cbfdc.chunk.css.map",
+    "static/js/2.1320a93f.chunk.js.LICENSE.txt": "/eindwerk-pgmgent-jarnvans/static/js/2.1320a93f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/eindwerk-pgmgent-jarnvans/static/media/home.5e983612.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a7d40e5.js",
+    "static/js/2.1320a93f.chunk.js",
+    "static/css/main.f36cbfdc.chunk.css",
+    "static/js/main.171eed88.chunk.js"
+  ]
+}

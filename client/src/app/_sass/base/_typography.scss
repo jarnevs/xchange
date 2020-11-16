@@ -1,0 +1,36 @@
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: $title-color;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+
+  &.detail {
+    color: $title-color;
+    margin-bottom: 24px;
+  }
+
+  &.home {
+    color: $white;
+  }
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+
+  &.special {
+    color: $call-to-action;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  &.title-text {
+    font-weight: 700;
+    font-size: 20px;
+    color: $title-color
+  }
+}

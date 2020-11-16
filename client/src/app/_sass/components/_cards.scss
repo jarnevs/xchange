@@ -1,0 +1,49 @@
+.card {
+  display: block;
+  border: 1px solid $title-color;
+  flex: 0 0 49%;
+  margin-bottom: 2%;
+  border-radius: 5px;
+  overflow: hidden;
+  text-decoration: none;
+
+  &__image {
+    width: 100%;
+    height: 291px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 0px 10px;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+    }
+
+    &--reward {
+      padding: 0;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+
+  &__text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 90px;
+    background-color: $title-color;
+    color: $white;
+    font-weight: 700;
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex: 0 0 100%;
+  }
+}
